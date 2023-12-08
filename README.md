@@ -6,23 +6,21 @@ Crime in LA project 1
 temp
 # Questions & Analysis
 ## 1. What is the crime distribution by area?
-Visualization 1: Bar plot showing the total crime counts for each area.  
-Visualization 2: Scatter plot with a linear regression line to explore the correlation between the area and total crime count.
+Visualization 1: Bar plot showing total crime counts for each area.  
+Statistical Test: Perform a t-test to compare crime counts between different areas. Identify if there are significant differences.
 ## 2. What are the monthly crime trends over the years?
-Visualization 3: Line plot or stacked area chart showing the trend of crime counts for each area over the years.  
-Visualization 4: Line plot showing the total monthly crime counts over the entire period.  
-Visualization 5: Scatter plot with a linear regression line to explore the correlation between the month and total crime count.  
-Visualization 6: Line plot or bar plot showing the average monthly crime counts for each year.  
-Visualization 7: Multiple line plots or stacked area charts for different crime types.
+Visualization 2: Line plot or stacked area chart showing crime trends for each area.  
+Visualization 3: Line plot showing total monthly crime counts.  
+Visualization 4: Scatter plot with a linear regression line for the correlation between the month and total crime count.  
+Statistical Test: Correlation test to quantify the relationship observed in Visualization 5
 ## 3. What is the distribution of crime types?
-Visualization 8: Pie chart or bar plot showing the distribution of crime types.  
-Visualization 9: Scatter plot with a linear regression line to explore the correlation between the crime type and its occurrence.  
-Visualization 10: Stacked area chart or grouped bar plot showing changes in the distribution of crime types.  
+Visualization 5: Pie chart or bar plot showing the distribution of crime types.  
+Statistical Test: Chi-square test to analyze the association between crime types and other categorical variables.  
 ## 4. What are the demographics of crime victims?
-Visualization 11: Count plot or pie chart showing the distribution of crime victims by gender.  
-Visualization 12: Scatter plot with a linear regression line to explore the correlation between the age of the victim and the count of a specific crime type.  
-Visualization 13: Histogram or kernel density plot showing the distribution of victim ages.  
-Visualization 14: Stacked bar plot or heat map showing the correlation between crime types and victim demographics.  
+Visualization 6: Count plot or pie chart showing the distribution of crime victims by gender.  
+Visualization 7: Scatter plot with a linear regression line to explore the correlation between the age of the victim and the count of a specific crime type.  
+Visualization 8: Histogram or kernel density plot showing the distribution of victim ages.  
+Statistical Test: T-tests or other appropriate tests for comparisons between different demographic groups.
 # Conclusion
 temp
 # Requirements
