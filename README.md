@@ -65,11 +65,11 @@ Jupyter notebook with Visualization 5.
 README.md explaining Visualization 5 and the associated statistical test.
 
 Jia Xin's Branch:
-Jupyter notebook with Visualizations 6 and 7.
+Jupyter notebook with Visualizations 6 and 9.
 README.md providing details on the victim demographics analysis.
 
 Ariana's Branch:
-Jupyter notebook with Visualizations 8 and 9.
+Jupyter notebook with Visualizations 7 and 8.
 README.md explaining the victim demographics visualizations.
 
 Mike Korzeniewski's Branch:
