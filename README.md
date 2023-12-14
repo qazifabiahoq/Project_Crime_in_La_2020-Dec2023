@@ -38,13 +38,16 @@ Temporal Patterns: Emphasizes the importance of adaptability in short-term inter
 Linear Regression Equation: Indicates a decreasing trend in crime counts over time.
 Statistical Significance: Cautions about interpretation due to a non-significant p-value, suggesting the need to consider external factors.
 Correlation Coefficient (r): Highlights the importance of a higher correlation coefficient for a more robust relationship.
+
 Practical Implications:
 Resource Allocation: Guides law enforcement in targeted resource allocation during periods of expected decrease.
 Temporal Dynamics: Recognizes the importance of understanding temporal patterns for adaptive law enforcement strategies.
 Complex Influences: Acknowledges the multifaceted factors influencing crime rates, emphasizing a holistic approach in law enforcement strategies.
+
 Views and Thoughts:
 External Factors: Acknowledges potential influences such as the impact of COVID-19, economic conditions, and social policies on crime dynamics.
 Need for Further Investigation: Calls for comprehensive studies to identify specific causative factors for more targeted and effective law enforcement strategies.
+
 This README provides an overview of the project structure, code snippets, findings, and practical implications. Further details on statistical tests and external factors influencing crime trends are included for a comprehensive understanding. For additional insights, detailed statistical analyses and further investigation into external factors are recommended.
 
 
