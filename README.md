@@ -2,7 +2,14 @@
 Project Overview:
 This project aims to analyze crime trends in Los Angeles, addressing key questions related to crime distribution by area and monthly variations over the years. The analysis utilizes Python and popular data analysis libraries, such as pandas, matplotlib, and seaborn, to visualize and interpret the data.
 
+2 questions were answered by me: 
+
+•What areas have a significantly high crime rate?
+
+•Is crime increased during certain months in a year?
+
 Project Structure:
+
 Question 1 (Crime distribution by area):
 Visualization 1:
 Description: Bar plot displaying total crime counts for each area.
@@ -12,6 +19,7 @@ Statistical Test:
 Description: Performs a t-test to compare crime counts between different areas.
 Code: Statistical test not explicitly included in the provided code.
 Findings: Identifies significant differences, if any, in crime counts between areas.
+
 Question 2 (Monthly crime trends over the years):
 Visualization 2:
 Description: Line plot illustrating crime trends for each area over the years.
