@@ -6,7 +6,14 @@ In this project, our primary objective is to provide actionable insights to empo
 
 
 Why are we analyzing this dataset?
-Our aim is to empower law enforcement, city authorities, and policymakers by offering data-driven insights. 
+Our aim is to empower law enforcement, city authorities, and policymakers by offering data-driven insights.
+
+Our 4 main questions are:
+
+•What areas have a significantly high crime rate?
+•Is crime increased during certain months in a year?
+•Are there specific crimes that are being committed at relatively high rates?
+•Are there any specific groups of people being targeted?
 
 The analysis focuses on key questions to guide strategic interventions:
 
