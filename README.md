@@ -39,10 +39,11 @@ Question 4 (Demographics of crime victims):
 Crimes exhibit a clear age-related pattern, peaking around 30 and declining as age increases.
 The 25 to 30 age group has the highest crime frequency.
 Histogram analysis provides nuanced insights into the age distribution of crimes.
+Additionally, T-tests are conducted to explore demographic differences and identify significant distinctions among victim age groups.
 
 Project Conclusion:
 
-The comprehensive analysis of crime dynamics in Los Angeles offers stakeholders valuable insights to guide strategic decision-making for crime prevention. In areas with elevated crime rates, such as Central, targeted interventions and resource allocation are paramount, considering the significant differences identified through ANOVA analysis. Conversely, Foothill's success as the lowest crime area suggests the importance of exploring and adopting effective practices. The observed surge in crime during 2021 underscores the need for adaptive law enforcement strategies, while the overall decreasing trend indicated by the linear regression analysis allows for anticipatory planning and efficient resource allocation. Addressing the most prevalent crime type, "Theft," requires targeted preventive measures and resource allocation, supported by the statistically significant association between crime types and areas validated through the chi-square test. Recognizing the age-related pattern, stakeholders can tailor interventions to specific age groups, focusing efforts on those most susceptible to criminal activity. This multifaceted approach, integrating geographical, temporal, and demographic nuances, empowers stakeholders to craft proactive, adaptive strategies that enhance public safety and contribute to the overall well-being of the community.
+The comprehensive analysis of crime dynamics in Los Angeles offers stakeholders valuable insights to guide strategic decision-making for crime prevention. In areas with elevated crime rates, such as Central, targeted interventions and resource allocation are paramount, considering the significant differences identified through ANOVA analysis. Conversely, Foothill's success as the lowest crime area suggests the importance of exploring and adopting effective practices. The observed surge in crime during 2021 underscores the need for adaptive law enforcement strategies, while the overall decreasing trend indicated by the linear regression analysis allows for anticipatory planning and efficient resource allocation. Addressing the most prevalent crime type, "Theft," requires targeted preventive measures and resource allocation, supported by the statistically significant association between crime types and areas validated through the chi-square test. Recognizing the age-related pattern, stakeholders can tailor interventions to specific age groups, focusing efforts on those most susceptible to criminal activity. This multifaceted approach, integrating geographical, temporal, and demographic nuances, empowers stakeholders to craft proactive, adaptive strategies that enhance public safety and contribute to the overall well-being of the community.The T-tests for demographic groups reveal significant differences in crime counts. Vict Age Groups show a distinct age-based pattern (p-value: 0.0), emphasizing the need for targeted prevention strategies. Vict Sex Groups display a noteworthy gender-based difference (p-value: 1.041e-164), crucial for tailored law enforcement. Similarly, Vict Descent Groups indicate a significant divergence based on descent (p-value: 2.534e-291), guiding policies for unique challenges. These findings underscore the necessity for nuanced and tailored approaches in crime prevention and law enforcement, considering age, gender, and descent characteristics.
 
 
 
@@ -58,15 +59,15 @@ README.md with the project overview, file structure, and instructions.
 
 Qazi Fabia Hoq's Branch:
 Jupyter notebook with visualizations 1, 2, 3, and 4.
-README.md detailing the visualizations and statistical tests conducted.
+README.md detailing the visualizations, analyzation report, main read me and last statistical tests conducted.
 
 Raymon Matiling's Branch:
 Jupyter notebook with Visualization 5.
-README.md explaining Visualization 5 and the associated statistical test.
+README.md explaining Visualization 5 and the associated statistical test and contribution to presentation slides.
 
 Jia Xin's Branch:
 Jupyter notebook with Visualizations 6 and 9.
-README.md providing details on the victim demographics analysis.
+README.md providing details on the victim demographics analysis and contribution to main read me and presentation slides.
 
 Ariana's Branch:
 Jupyter notebook with Visualizations 7 and 8.
@@ -74,7 +75,7 @@ README.md explaining the victim demographics visualizations.
 
 Mike Korzeniewski's Branch:
 Jupyter notebook with statistical tests: t-test for crime counts and correlation test for Visualization 4.
-README.md detailing the statistical tests conducted.
+README.md detailing the statistical tests conducted, also contributed to slides.
 
 Main Branch README:
 Crime_in_La.ipynb:
