@@ -101,6 +101,18 @@ Resources:
 Links to additional resources, Excel files, and figures.
 Presentation slides for a concise overview.
 
+Bibliography:
+ASSOCIATED PRESS. (2021, July 1). California homicides jump 31% in 2020, 	reaching highest total in 13 years. Los Angeles Times.
+	https://www.latimes.com/california/story/2021-07-01/california-	homicides-	jump-31-in-2020-the-most-in-13-years
+Deliso, M and Stone, A. (2023, February 13). Alleged gunman in custody after 2 	Jewish men shot in suspected hate crime: Police. Abc News.
+	https://abcnews.go.com/US/2-jewish-men-reportedly-shot-religious-	services-la/story?id=97269248
+Los Angeles Police Department. (n.d.). The Official Site of the Los Angeles Police 	Department. https://www.lapdonline.org/#
+Rector, K. (2021, August 13). Latino and Black victims account for nearly all of 	L.A.’s surge in homicides. Los Angeles Times.
+	https://www.latimes.com/california/story/2021-08-13/la-homicides-	since-	covid-take-mostly-black-latino-victims
+U.S. Government's Open Data. (2023). Crime Data from 2020 to Present [Data 	set].https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+  ![image](https://github.com/qazifabiahoq/Project_Crime/assets/149120984/9933b89c-8fdf-4d58-9d10-1fefec3fab9a)
+
+
 README.md:
 This file serves as the main README for the project.
 It includes a brief project summary, the purpose of the analysis, details on the file structure, and information on why the dataset is being analyzed and how the findings can benefit law enforcement, city authorities, and policymakers.
