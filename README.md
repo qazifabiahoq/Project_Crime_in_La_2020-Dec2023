@@ -1,5 +1,6 @@
-# Project_Crime
-Crime in Los Angeles (2020-December 2023) Data Analysis
+# Analyzing Crime In Los Angeles from 2020 to December 5th, 2023
+
+
 
 Project Overview:
 In this project, our primary objective is to provide actionable insights to empower law enforcement, city authorities, and policymakers in making informed decisions for effective crime prevention in Los Angeles. We analyze a comprehensive dataset obtained from data.gov, covering the period from 2020 to December 5th, 2023.
